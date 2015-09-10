@@ -5,4 +5,4 @@ If you use this source code you agree to
 
 2) Not selling it for money anywhere
 
-3) Say that you made it
+3) Not saying you made it
